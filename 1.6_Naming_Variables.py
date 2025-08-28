@@ -9,7 +9,7 @@ RULES FOR NAMING VARIABLES:
 2. Cannot start with a number
 3. Can only contain alpha-numeric characters and underscores (A-z, 0-9, _ )
 4. Variable names are case-sensitive (name and Name are different variables)
-5. A variable name cannot be any of the Python keywords.
+5. A variable name cannot be any of the Python keywords: https://www.w3schools.com/python/python_ref_keywords.asp
 '''
 
 print("\n")
