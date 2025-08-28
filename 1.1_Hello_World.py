@@ -7,8 +7,6 @@ The "Hello, World!" program is the first program for many devlopers
 By creating this program you are now officially a programmer!
 Allow me to be the first to welcome to the world of programming!
 
-This is actually pretty awesome!
-
 In Python, you will write Python (.py) files
 These files will be executed in the python interpreter
 I created a Hello World.py file right here in Visual Studio Code
