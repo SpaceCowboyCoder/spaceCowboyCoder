@@ -6,6 +6,16 @@ A single-line comment starts with a #
 The rest of the line will be ignored by the interpreter
 Usually single-line comments are above a block of code, or 
 They are often used on the same line as a line of code
+
+
+# Comments (like this one) are ignored by Python
+# They're notes for humans, not the computer
+# We will use them throughout our programs to explain what’s going on
+
+# Python is case sensitive!
+# print("hello") works, but Print("hello") or PRINT("hello") would cause an error
+
+# Our very first line of code:
 '''
 
 # This is a single-line comment
