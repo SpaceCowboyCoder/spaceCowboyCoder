@@ -1,6 +1,8 @@
 import sys
 
-print("\033c") #Last modified: 2025-08-27
+print("\033c")
+
+# 8.28.2025
 
 '''
 The "Hello, World!" program is the first program for many devlopers
